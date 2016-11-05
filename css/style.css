@@ -109,10 +109,11 @@ p{
 	color: #666;
 }
 .facebook {
-	margin-left:30%;
+	margin-left:35%;
 }
 .menu .facebook a:hover{color: rgb(59,89,152);}
 .menu .linkedin a:hover{color: rgb(0, 123,182);}
+.menu .github a:hover{color: black;}
 
 /* Images & Media
 –––––––––––––––––––––––––––––––––––––––––––––– */
